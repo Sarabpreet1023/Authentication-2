@@ -1,0 +1,5 @@
+// users.js
+module.exports = [
+  { username: 'john', password: '123456' },
+  { username: 'jane', password: 'abcdef' }
+];
